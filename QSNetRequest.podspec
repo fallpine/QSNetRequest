@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "QiuSongChen" => "791589545@qq.com" }
   spec.ios.deployment_target     = "15.0"
   spec.watchos.deployment_target = "8.0"
-  spec.source       = { :git => "git@github.com:fallpine/QSNetRequest.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/fallpine/QSNetRequest.git", :tag => "#{spec.version}" }
   spec.swift_version = '5'
   spec.source_files  = "QSNetRequest/QSNetRequest/Tool/*.{swift}"
   spec.dependency "QSJsonParser"
