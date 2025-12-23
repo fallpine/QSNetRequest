@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "QSNetRequest"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "网络请求工具类"
   spec.description  = "基于Alamofire的网络请求工具类"
   spec.homepage     = "https://github.com/fallpine/QSNetRequest"
