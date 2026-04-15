@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-QSNetRequest/Pods-QSNetRequest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/QSJsonParser/QSJsonParser.framework

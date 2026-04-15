@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.11.2)
+  - QSJsonParser (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - QSJsonParser
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - QSJsonParser
+
+SPEC CHECKSUMS:
+  Alamofire: 400275dd1c6d87d95a041861d2a59da4b520a203
+  QSJsonParser: 632a18784242ef37e08cf06eba269c3990cc7020
+
+PODFILE CHECKSUM: 7599cd4d6289b3d4b2d9f4e250d8cc0b8b700501
+
+COCOAPODS: 1.16.2
